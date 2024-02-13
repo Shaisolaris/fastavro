@@ -20,4 +20,5 @@ venv
 .coverage
 py3*/
 pypy/
-.vscode/
+config.bat
+node_modules
